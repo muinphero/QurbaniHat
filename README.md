@@ -4,7 +4,7 @@ QurbaniHat is a modern livestock booking platform for Qurbani where users can br
 
 ## Live URL
 
-Add your deployed Vercel or Render URL here after hosting.
+https://qurbani-hat-one.vercel.app/
 
 ## Key Features
 
