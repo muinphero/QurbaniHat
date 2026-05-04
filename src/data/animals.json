@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Deshi Shahi Cow",
+    "type": "Cow",
+    "breed": "Local Deshi",
+    "price": 120000,
+    "weight": 280,
+    "age": 3,
+    "location": "Bogura",
+    "description": "Healthy deshi cow suitable for Qurbani. Well fed with natural food and handled by experienced farmers.",
+    "image": "https://images.unsplash.com/photo-1527153857715-3908f2bae5e8?auto=format&fit=crop&w=1200&q=80",
+    "category": "Large Animal"
+  },
+  {
+    "id": 2,
+    "name": "Royal Brahman",
+    "type": "Cow",
+    "breed": "Brahman Cross",
+    "price": 185000,
+    "weight": 420,
+    "age": 4,
+    "location": "Sirajganj",
+    "description": "Tall, strong Brahman cross raised on a balanced farm diet with regular veterinary care.",
+    "image": "https://images.unsplash.com/photo-1564085352725-08da0272627d?auto=format&fit=crop&w=1200&q=80",
+    "category": "Large Animal"
+  },
+  {
+    "id": 3,
+    "name": "Black Bengal Prime",
+    "type": "Goat",
+    "breed": "Black Bengal",
+    "price": 28500,
+    "weight": 32,
+    "age": 2,
+    "location": "Kushtia",
+    "description": "Compact, active goat from the famous Black Bengal line, perfect for a smaller family Qurbani.",
+    "image": "https://images.unsplash.com/photo-1524024973431-2ad916746881?auto=format&fit=crop&w=1200&q=80",
+    "category": "Small Animal"
+  },
+  {
+    "id": 4,
+    "name": "Pabna Red Bull",
+    "type": "Cow",
+    "breed": "Pabna Cattle",
+    "price": 145000,
+    "weight": 335,
+    "age": 3,
+    "location": "Pabna",
+    "description": "Well-shaped red bull from Pabna, calm in behavior and suitable for shared Qurbani booking.",
+    "image": "https://images.unsplash.com/photo-1570042225831-d98fa7577f1e?auto=format&fit=crop&w=1200&q=80",
+    "category": "Large Animal"
+  },
+  {
+    "id": 5,
+    "name": "Jamunapari Sultan",
+    "type": "Goat",
+    "breed": "Jamunapari",
+    "price": 46000,
+    "weight": 48,
+    "age": 2,
+    "location": "Jashore",
+    "description": "Elegant Jamunapari goat with good height, clean coat, and a strong feeding record.",
+    "image": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?auto=format&fit=crop&w=1200&q=80",
+    "category": "Small Animal"
+  },
+  {
+    "id": 6,
+    "name": "Chattogram Premium Ox",
+    "type": "Cow",
+    "breed": "Red Chittagong",
+    "price": 210000,
+    "weight": 470,
+    "age": 4,
+    "location": "Chattogram",
+    "description": "Premium Red Chittagong ox with impressive body structure, steady temperament, and farm documents.",
+    "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?auto=format&fit=crop&w=1200&q=80",
+    "category": "Large Animal"
+  }
+]
